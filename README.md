@@ -1,0 +1,1 @@
+The research and development of this system aspire to contribute to the optimization of student administration processes within educational institutions, emphasizing user-friendly interfaces and scalable architecture for seamless integration with existing systems. 
